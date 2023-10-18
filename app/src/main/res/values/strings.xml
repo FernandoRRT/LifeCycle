@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="name">Name</string>
+    <string name="filled_chars">Filled chars:</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add_phone">Add phone</string>
+    <string name="main">Main</string>
+    <string name="another">Another</string>
+    <string name="next">Next</string>
+</resources>
